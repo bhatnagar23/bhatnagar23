@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhatnagar23
-- 👀 I’m interested in Data Analytics and Flutter Development.
-- 🌱 I’m currently learning Flutter and Data Analytics.
-- 💞️ I’m looking to collaborate on Data Analytics and Flutter Projects.
+- 👀 I’m interested in Data Analytics Web Development.
+- 🌱 I’m learning Data Analytics.
+- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects.
 - 📫 How to reach me @bhatnagar23 This is my git hub id.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Happy_code, code_with_fun
